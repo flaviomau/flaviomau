@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @flaviomau, a full stack developer currently working with MEAN/MERN stack
+- 👀 I’m interested in everything related to Javascript!
+- 📫 How to reach me flaviomau@yahoo.com
